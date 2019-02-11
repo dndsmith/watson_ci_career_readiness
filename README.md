@@ -1,2 +1,2 @@
-# watson_ci_career
-For the Watson Creative Inquiry project to help the Career Center determine career readiness of interns
+# IBM Watson CI Career Readiness Project
+The career readiness project seeks to help the Career Center quantiatively evaluate the career readiness of students by applying machine learning techniques to open-ended survey responses from former UPIC interns and their mentors.
