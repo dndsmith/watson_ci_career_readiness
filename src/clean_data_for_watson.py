@@ -3,6 +3,10 @@
 # NOTE: README -> doesn't account for entries without proper quotation marks surrounding the text yet
 # version 3: changing this code to be more generic NOTE DONE YET
 
+
+# *** # *** # DO NOT USE 10-9-19 # *** # *** #s
+
+
 import sys
 
 if __name__ == "__main__":
